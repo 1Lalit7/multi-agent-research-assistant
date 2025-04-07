@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.env
+
+# IDE
+.vscode/
+.DS_Store
+
+# Project specific
+*.log
+research_report.md
+*.csv
+*.json
+*.pkl
+*.h5
+*.model
+*.weights
+checkpoints/
+models/
+data/
+logs/
+
+ 

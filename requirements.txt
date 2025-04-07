@@ -1,0 +1,22 @@
+# Core dependencies
+langchain>=0.3.23
+langchain-core>=0.3.51
+langchain-community>=0.3.21
+langgraph>=0.3.25
+openai>=1.70.0
+python-dotenv>=1.0.1
+
+# API Integrations
+langchain-openai>=0.3.12
+tavily-python>=0.2.9
+
+# Utils
+pydantic>=2.10.6
+tenacity>=8.2.3
+numpy>=1.24.0
+tqdm>=4.66.1
+aiohttp>=3.8.6
+
+# Utilities for parallelism and async
+asyncio>=3.4.3
+typing-extensions>=4.8.0 
