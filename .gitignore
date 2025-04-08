@@ -21,7 +21,6 @@ research_report.md
 *.model
 *.weights
 checkpoints/
-models/
 data/
 logs/
 
