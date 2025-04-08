@@ -5,6 +5,7 @@ langchain-community>=0.3.21
 langgraph>=0.3.25
 openai>=1.70.0
 python-dotenv>=1.0.1
+wikipedia>=1.4.0
 
 # API Integrations
 langchain-openai>=0.3.12
