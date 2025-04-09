@@ -55,7 +55,7 @@ This platform employs a human-in-the-loop approach, allowing users to guide the 
 
 ```bash
 # Clone the repository
-git clone https://github.com/1Lalit7/Multi-Agent-Research-Assistant.git
+git clone https://github.com/LalitAI17/Multi-Agent-Research-Assistant.git
 cd multi-agent-research-assistant
 
 # Create a virtual environment (recommended)
@@ -168,7 +168,7 @@ The system leverages LangGraph for agent orchestration and LangChain for LLM int
 
 ```bash
 # Clone the repository
-git clone https://github.com/1Lalit7/Multi-Agent-Research-Assistant.git
+git clone https://github.com/LalitAI17/Multi-Agent-Research-Assistant.git
 cd multi-agent-research-assistant
 
 # Create a virtual environment
