@@ -13,7 +13,6 @@ venv/
 
 # Project specific
 *.log
-research_report.md
 *.csv
 *.json
 *.pkl
